@@ -1,5 +1,9 @@
 # 使用Colly爬取网站并展示
 
+# :warning: 注意：此README已经过时
+
+# [点击查看最新文档](https://ruilisi.github.io/golang-crawler-example/)
+
 ## 目录
 - [目标](https://github.com/ruilisi/golang-crawler-example#目录)
 - [目标网站](https://github.com/ruilisi/golang-crawler-example#目标网站)
